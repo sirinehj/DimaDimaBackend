@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="public/img/logoOur.png" alt="OUR BATIMA Logo" width="200"/>
+</p>
+
 # OUR BATIMA - Gestion Intelligente des Projets de Construction
 
 ## Overview
